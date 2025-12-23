@@ -8,7 +8,7 @@ Personal C++ challenge implementing transformation from **Latitude/Longitude/Alt
 - Demonstrates precision floating-point math, trigonometric calculations, and modern C++ practices
 
 Built as a self-directed coding challenge to deepen systems-level C++ skills.
-'''
+```
 ************************************************************
      INSTRUCTIONS FOR BUILDING AND RUNNING (LINUX)
 ************************************************************
@@ -75,4 +75,4 @@ ECEF Velocity Vector (Vx, Vy, Vz) at time 1532334000:
 ECEF Velocity Vector (Vx, Vy, Vz) at time 1532335268:
 (-3471.02128301681392006119377892, 1760.25788761925766725589689167, -4867.47606248494785073659059015) m/s
 ~/CoordinateConversion/build$ 
-'''
+```
