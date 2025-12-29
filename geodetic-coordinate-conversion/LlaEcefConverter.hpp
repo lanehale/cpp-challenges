@@ -9,8 +9,8 @@
  *              to Earth-Centered Earth-Fixed (ECEF) coordinates, including 
  *              velocity interpolation at arbitrary times.
  *
- * Purpose: Personal coding challenge demonstrating precision math, 
- *          coordinate transformations, and modern C++ practices.
+ *     Purpose: Personal coding challenge demonstrating precision math, 
+ *              coordinate transformations, and modern C++ practices.
  */
 
 #pragma once
@@ -84,3 +84,4 @@ void getInterpolatedVelocity(
 	const VelocityInterpolator& y_velocity_interpolator,
 	const VelocityInterpolator& z_velocity_interpolator
 );
+
