@@ -8,8 +8,8 @@
  *              conversions, velocity calculations, and linear interpolation to
  *              get velocities at arbitrary times.
  *
- * Purpose: Personal coding challenge demonstrating precision math, 
- *          coordinate transformations, and modern C++ practices.
+ *     Purpose: Personal coding challenge demonstrating precision math, 
+ *              coordinate transformations, and modern C++ practices.
  */
 
  #include "LlaEcefConverter.hpp"
@@ -197,3 +197,4 @@ int main()
 
     return 0;
 }
+
